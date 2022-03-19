@@ -1,6 +1,6 @@
 # **Novikau Ihar**
 ***Contacts for communication:***\
-*phone number*: **+375295316862**\
+*my phone number*: **+375295316862**\
 *email*: **gosha.noviko2012@gmail.com**\
 by the end of this year I will be working as a front-end developer\
 no development skills. tried to study on my own. studied js
